@@ -1,0 +1,12 @@
+{
+    "name": "Skadi Workflow",
+    "description": "Skadi CI starter workflow.",
+    "categories": [
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
